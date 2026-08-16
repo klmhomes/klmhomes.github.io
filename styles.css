@@ -2786,7 +2786,7 @@ figcaption {
     justify-content: flex-start;
     align-items: center;
     margin-top: 0;
-    padding: 0 98px;
+    padding: 5px 98px 0;
     display: flex;
 }
 
@@ -2797,7 +2797,7 @@ figcaption {
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 30px;
-    padding-bottom: 0;
+    padding-bottom: 30px;
     display: flex;
 }
 
